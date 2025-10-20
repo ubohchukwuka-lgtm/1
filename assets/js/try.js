@@ -1,0 +1,11 @@
+let myName, school, address, phone, email;
+myName = "Uboh Chukwuka";
+school = "Delta State University";
+address = "Oleh Campus, Delta state.";
+phone = 2348137601666;
+email = "Chukwukauboh@gmail.com";
+document.getElementById("name").innerHTML = myName;
+document.getElementById("school").innerHTML = school;
+document.getElementById("address").innerHTML = address;
+document.getElementById("phone").innerHTML = phone;
+document.getElementById("email").innerHTML = email;
